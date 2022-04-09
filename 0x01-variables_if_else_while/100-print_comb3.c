@@ -18,8 +18,9 @@ int main(void)
 
 			if (digit1 == 8 && digit2 == 9)
 				continue;			
+
 			putchar(',');
-			putchar(' ');
+			putchar("  ");
 		}
 	}
 
