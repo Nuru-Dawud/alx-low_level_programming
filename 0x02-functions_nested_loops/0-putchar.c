@@ -6,11 +6,11 @@ int main(void)
 {
 /* 
  *  Get the character to be written
- *  
  */
 	char h[] = "_putchar";
 	int m;
 	m = 0;
+
 	while (m <= 8)
 	{
 		putchar(h[m]);
