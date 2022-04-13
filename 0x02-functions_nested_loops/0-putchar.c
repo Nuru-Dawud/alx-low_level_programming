@@ -1,7 +1,7 @@
-#include <stdio.h>
-/*
+#include <main.h>
+/**
  *  This is the description of main
- */ 
+ **/ 
 int main(void)
 {
 /* 
@@ -16,5 +16,5 @@ int main(void)
 		m++;
 	}
 	putchar('\n');  
-return (0);
+	return (0);
 }
